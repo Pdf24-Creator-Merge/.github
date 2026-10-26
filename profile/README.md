@@ -1,5 +1,3 @@
-A locked PDF stays locked. The toolbox does not remove a password. Count pages, including the last, before you send the file. Rebuild the merge if the order is wrong, using the originals you kept. Send the new PDF only after the last page matches what you expected.
-
 # PDF24 Creator - PDFs You Can Already Open
 
 PDF24 Creator merges, splits, or prints to PDF from documents you already have and can open. The result is a new file. It does not remove a password, a signature lock, or any other restriction. If a PDF will not open, you need the password from the person who protected it. Keep the original and write the new PDF under another name.
